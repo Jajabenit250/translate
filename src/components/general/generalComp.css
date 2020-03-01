@@ -1,0 +1,15 @@
+.navbar-nav {
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 21px;
+display: flex;
+align-items: center;
+}
+.navbar-nav > li{
+    padding-left:40px;
+    padding-right:70px;
+  }
+.navbar-brand {
+    padding-right:140px;
+}
